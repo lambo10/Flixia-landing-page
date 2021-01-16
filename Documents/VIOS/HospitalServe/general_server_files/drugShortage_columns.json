@@ -1,0 +1,9 @@
+
+[
+    {"name":"name","title":"DrugName"},
+    {"name":"quantity","type":"number","title":"Quantity"},
+    {"name":"brand","type":"text","title":"Brand"},
+    {"name":"strength","type":"text","title":"Strength"},
+    {"name":"price","type":"text","title":"Price(Naira)"},
+    {"name":"cost","type":"number","title":"Cost(Naira)"}
+  ]

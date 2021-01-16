@@ -1,0 +1,9 @@
+
+[
+    {"name":"name","title":"DrugName"},
+    {"name":"brand","type":"text","title":"Brand"},
+    {"name":"strength","type":"text","title":"Strength"},
+    {"name":"no_of_losses","type":"number","title":"Quantity Lossed"},
+    {"name":"causes","type":"text","title":"Causes"},
+    {"name":"cost","type":"number","title":"Cost(Naira)"}
+  ]

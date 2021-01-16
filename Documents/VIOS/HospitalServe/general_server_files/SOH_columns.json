@@ -1,0 +1,9 @@
+
+[
+  {"name":"_id","title":"id","visible":false},
+  {"name":"name","title":"Drug"},
+  {"name":"strength","type":"number","title":"Strength"},
+  {"name":"quantity","type":"number","title":"Quantity"},
+  {"name":"price","type":"number","title":"Price(Naira)"},
+  {"name":"batch_price","type":"number","title":"Batch Price(Naira)"}
+]

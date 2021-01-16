@@ -1,0 +1,8 @@
+
+[
+    {"name":"DrugID","title":"id","visible":false},
+    {"name":"DrugName","title":"DrugName"},
+    {"name":"Price_per_drug","type":"number","title":"Price per drug"},
+    {"name":"Quantity","type":"number","title":"Quantity sold"},
+    {"name":"Cost","type":"number","title":"Cost(Naira)"}
+  ]

@@ -1,0 +1,11 @@
+
+[
+  {"name":"_id","title":"id","visible":false},
+    {"name":"name","title":"DrugName"},
+    {"name":"batch_number","title":"Batch No"},
+    {"name":"quantity","type":"number","title":"Quantity"},
+    {"name":"brand","type":"text","title":"Brand"},
+    {"name":"strength","type":"text","title":"Strength"},
+    {"name":"expDate","type":"text","title":"Expirey Date"},
+    {"name":"cost","type":"number","title":"Cost(Naira)"}
+  ]

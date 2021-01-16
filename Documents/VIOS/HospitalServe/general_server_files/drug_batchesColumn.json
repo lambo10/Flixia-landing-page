@@ -1,0 +1,8 @@
+
+[
+    {"name":"name","title":"DrugName"},
+    {"name":"quantity","type":"number","title":"Quantity"},
+    {"name":"brand","type":"text","title":"Brand"},
+    {"name":"strength","type":"text","title":"Strength"},
+    {"name":"batch_number","type":"number","title":"Batch Number"}
+  ]

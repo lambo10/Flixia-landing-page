@@ -1,0 +1,10 @@
+
+[
+    {"name":"DrugName","title":"DrugName"},
+    {"name":"Price_per_drug","type":"number","title":"Price per drug"},
+    {"name":"Quantity","type":"number","title":"Quantity sold"},
+    {"name":"onlyDate","type":"text","title":"Date"},
+    {"name":"onlyTime","type":"text","title":"Time"},
+    {"name":"Patient_name","type":"text","title":"Patient sold to"},
+    {"name":"Cost","type":"number","title":"Cost(Naira)"}
+  ]

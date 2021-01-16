@@ -1,0 +1,11 @@
+{
+  "name": "manage_nodes",
+  "version": "1.0.0",
+  "description": "vios server tool for nodes management",
+  "main": "manage_nodes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lambert Nnadi",
+  "license": "ISC"
+}

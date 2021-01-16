@@ -1,0 +1,6 @@
+
+[
+    {"name":"_id","title":"id","visible":false},
+    {"name":"time","title":"Time"},
+    {"name":"date","title":"Date"}
+  ]
